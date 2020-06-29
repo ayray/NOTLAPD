@@ -19,10 +19,7 @@
 	font-family: 'Raleway', sans-serif;
 	font-size: 15px;
 	font-weight: 400;
-	::selection {
-	  color: white;
-	  background: black;
-	}
+	background: black;
 }
 
 #header3{
