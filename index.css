@@ -51,6 +51,15 @@
 }
 
 
+@media only screen and (min-width: 365px) {
+    /* For phone: */
+   	#container{
+		margin: 1%;
+		padding-left: 0;
+		padding-right: 0;
+	}
+}
+
 @media only screen and (min-width: 400px) {
     /* For phone: */
    	#container{
