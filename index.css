@@ -8,16 +8,16 @@
 #header{
 	margin-bottom: 20px;
 	color: black;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Averta', sans-serif;
 	font-size: 43px;
-	font-weight: 400;
+	font-weight: bold;
 }
 
 #header2{
 	margin-bottom: 20px;
 	color: white;
 	font-family: 'Raleway', sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 400;
 	background: black;
 }
